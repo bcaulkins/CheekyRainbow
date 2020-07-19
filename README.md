@@ -5,3 +5,7 @@ I was bored and wanted an easy project to get me back into python.  I decided to
 
 See: 
 http://world.std.com/~reinhold/diceware.html
+
+About the name:
+It's late at night, the first thing that popped into my head when prompted for a project name was an episode of Peppa Pig my daughter used to love:
+https://www.youtube.com/watch?v=Ui6_vdXkL-4&t=42s
