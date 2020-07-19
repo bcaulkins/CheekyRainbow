@@ -1,12 +1,12 @@
-# This is version 0.1 of my DiceWare pass phrase generator.                                                                               #
-# Use this to quickly generate a secure pass phrase using the DiceWare method shown here: http://world.std.com/~reinhold/diceware.html    #
-# Caution: It is recomended to use actual dice and not a digital tool to generate your diceware pass phrase.                              #
-# I wanted to see if I could write a program that would achive the same results as rolling dice. This was purely a learning exercise.     #
-# Please use at your own risk                                                                                                             #
-#                                                                                                                                         #
-# Author: Brian Caulkins                                                                                                                  #
-# Date: 7/18/2020                                                                                                                         #
-###########################################################################################################################################
+#This is version 0.1 of my DiceWare pass phrase generator.
+#Use this to quickly generate a secure pass phrase using the DiceWare method shown here: http://world.std.com/~reinhold/diceware.html
+#Caution: It is recomended to use actual dice and not a digital tool to generate your diceware pass phrase.
+#I wanted to see if I could write a program that would achive the same results as rolling dice. This was purely a learning exercise.
+#Please use at your own risk
+
+#Author: Brian Caulkins
+#Date: 7/18/2020
+
 
 import random
 import re
