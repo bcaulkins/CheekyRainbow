@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/bcaulkins/CheekyRainbow)
+
 # CheekyRainbow
 Project CheekyRainbow is a diceware pass phrase generator written in python3
 
